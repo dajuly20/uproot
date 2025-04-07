@@ -12,7 +12,7 @@ In addition, `uprt` can merge existing lists of static leases using the `merge` 
 
 ## [DOWNLOAD](https://github.com/GeekVisit/uproot/releases/tag/v2025-02-019)
 
-[Download Windows, Mac, and X86 Linux binaries](<https://github.com/GeekVisit/uproot/releases/tag/v2025-02-019>)
+[Download Windows, Mac, and X86 Linux binaries](<https://github.com/GeekVisit/uproot/releases/>)
 
 Like this project ? Please click the star at the top right corner of this page.
 
